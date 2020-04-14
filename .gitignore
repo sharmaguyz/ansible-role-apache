@@ -1,4 +1,6 @@
 .gd
+*.log
+log/
 *.retry
 */__pycache__
 *.pyc
