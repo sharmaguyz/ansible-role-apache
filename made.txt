@@ -7,7 +7,7 @@ this is a simple webiste project
 
 this is example is to sharmaguyz@gmail.com
 ## third level
-as state above
+as close above
 
 ##deploymet
 this is simple simple
