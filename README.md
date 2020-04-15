@@ -150,7 +150,7 @@ None. lrd003@gmail.com sharmauyz
 
 ## License
 
-MIT / BSD
+MIT / BSDi adding title title2
 
 ## Author Information
 
