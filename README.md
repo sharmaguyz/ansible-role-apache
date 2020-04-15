@@ -132,7 +132,7 @@ You would need to generate/upload your own `.htpasswd` file in your own playbook
 
 ## Dependencies
 
-None. lrd003@gmail.com
+None. lrd003@gmail.com sharmauyz
 
 ## Example Playbook
 
